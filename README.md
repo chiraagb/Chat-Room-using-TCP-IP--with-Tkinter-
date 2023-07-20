@@ -25,7 +25,7 @@ https://github.com/chiraagb/Chat-Room-using-TCP-IP--with-Tkinter-/assets/1138269
 
 2. Locate and Run the client.exe file (**Do not close server.exe**)
 
-   **(192.168.31.64) is my local IP**
+   **(192.168.31.58) is my local IP**
 
 https://github.com/chiraagb/Chat-Room-using-TCP-IP--with-Tkinter-/assets/113826990/2a91bfbe-66a8-4c2d-8735-b68e12c2b626
 
